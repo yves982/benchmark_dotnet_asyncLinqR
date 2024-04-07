@@ -1,0 +1,246 @@
+le package 'gtools' a ├®t├® d├®compress├® et les sommes MD5 ont ├®t├® v├®rifi├®es avec succ├®s
+le package 'R.methodsS3' a ├®t├® d├®compress├® et les sommes MD5 ont ├®t├® v├®rifi├®es avec succ├®s
+le package 'R.oo' a ├®t├® d├®compress├® et les sommes MD5 ont ├®t├® v├®rifi├®es avec succ├®s
+le package 'R.utils' a ├®t├® d├®compress├® et les sommes MD5 ont ├®t├® v├®rifi├®es avec succ├®s
+le package 'gdata' a ├®t├® d├®compress├® et les sommes MD5 ont ├®t├® v├®rifi├®es avec succ├®s
+le package 'gridExtra' a ├®t├® d├®compress├® et les sommes MD5 ont ├®t├® v├®rifi├®es avec succ├®s
+le package 'R.devices' a ├®t├® d├®compress├® et les sommes MD5 ont ├®t├® v├®rifi├®es avec succ├®s
+Les packages binaires t├®l├®charg├®s sont dans
+	C:\Users\yves_\AppData\Local\Temp\RtmpALDtMr\downloaded_packages
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-boxplot.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-barplot.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-density.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-facetDensity.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-N=100-density.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-N=100-facetDensity.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-N=1000-density.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-N=1000-facetDensity.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-N=10000-density.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-N=10000-facetDensity.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-N=60000-density.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-N=60000-facetDensity.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-.NET 7.0 N=100-timeline.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-.NET 7.0 N=100-timelineSmooth.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-.NET 7.0 N=100-cummean.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-.NET 7.0 N=100-density.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-.NET 7.0 N=1000-timeline.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-.NET 7.0 N=1000-timelineSmooth.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-.NET 7.0 N=1000-cummean.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-.NET 7.0 N=1000-density.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-.NET 7.0 N=10000-timeline.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-.NET 7.0 N=10000-timelineSmooth.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-.NET 7.0 N=10000-cummean.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-.NET 7.0 N=10000-density.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-.NET 7.0 N=60000-timeline.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-.NET 7.0 N=60000-timelineSmooth.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-.NET 7.0 N=60000-cummean.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-.NET 7.0 N=60000-density.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-facetTimeline.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithAsyncLinqR-cummean.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-density.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-facetDensity.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-N=100-density.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-N=100-facetDensity.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-N=1000-density.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-N=1000-facetDensity.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-N=10000-density.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-N=10000-facetDensity.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-.NET 7.0 N=100-timeline.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-.NET 7.0 N=100-timelineSmooth.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-.NET 7.0 N=100-cummean.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-.NET 7.0 N=100-density.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-.NET 7.0 N=1000-timeline.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-.NET 7.0 N=1000-timelineSmooth.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-.NET 7.0 N=1000-cummean.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-.NET 7.0 N=1000-density.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-.NET 7.0 N=10000-timeline.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-.NET 7.0 N=10000-timelineSmooth.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-.NET 7.0 N=10000-cummean.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-.NET 7.0 N=10000-density.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-facetTimeline.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: D:\source\repos\benchmark_linq2obj\Benchmark\bin\Release\net7.0\BenchmarkDotNet.Artifacts\results\Benchmark.Benchmark-WithSystemAsyncLinq-cummean.png ***
+------------------------------
+installation des d├®pendances 'gtools', 'R.methodsS3', 'R.oo', 'R.utils'
+essai de l'URL 'https://cran.rstudio.com/bin/windows/contrib/4.2/gtools_3.9.5.zip'
+Content type 'application/zip' length 362057 bytes (353 KB)
+==================================================
+downloaded 353 KB
+essai de l'URL 'https://cran.rstudio.com/bin/windows/contrib/4.2/R.methodsS3_1.8.2.zip'
+Content type 'application/zip' length 82998 bytes (81 KB)
+==================================================
+downloaded 81 KB
+essai de l'URL 'https://cran.rstudio.com/bin/windows/contrib/4.2/R.oo_1.26.0.zip'
+Content type 'application/zip' length 967348 bytes (944 KB)
+==================================================
+downloaded 944 KB
+essai de l'URL 'https://cran.rstudio.com/bin/windows/contrib/4.2/R.utils_2.12.3.zip'
+Content type 'application/zip' length 1410834 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+essai de l'URL 'https://cran.rstudio.com/bin/windows/contrib/4.2/gdata_3.0.0.zip'
+Content type 'application/zip' length 496015 bytes (484 KB)
+==================================================
+downloaded 484 KB
+essai de l'URL 'https://cran.rstudio.com/bin/windows/contrib/4.2/gridExtra_2.3.zip'
+Content type 'application/zip' length 1109541 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+essai de l'URL 'https://cran.rstudio.com/bin/windows/contrib/4.2/R.devices_2.17.2.zip'
+Content type 'application/zip' length 384838 bytes (375 KB)
+==================================================
+downloaded 375 KB
+Attachement du package : 'dplyr'
+Les objets suivants sont masqu├®s depuis 'package:stats':
+    filter, lag
+Les objets suivants sont masqu├®s depuis 'package:base':
+    intersect, setdiff, setequal, union
+Attachement du package : 'gdata'
+Les objets suivants sont masqu├®s depuis 'package:dplyr':
+    combine, first, last, starts_with
+L'objet suivant est masqu├® depuis 'package:stats':
+    nobs
+L'objet suivant est masqu├® depuis 'package:utils':
+    object.size
+L'objet suivant est masqu├® depuis 'package:base':
+    startsWith
+Message d'avis :
+le package 'gdata' a ├®t├® compil├® avec la version R 4.2.3 
+Attachement du package : 'tidyr'
+L'objet suivant est masqu├® depuis 'package:gdata':
+    starts_with
+Attachement du package : 'gridExtra'
+L'objet suivant est masqu├® depuis 'package:gdata':
+    combine
+L'objet suivant est masqu├® depuis 'package:dplyr':
+    combine
+Message d'avis :
+le package 'gridExtra' a ├®t├® compil├® avec la version R 4.2.3 
+R.devices v2.17.2 (2024-01-29 13:30:11 UTC) successfully loaded. See ?R.devices for help.
+Message d'avis :
+le package 'R.devices' a ├®t├® compil├® avec la version R 4.2.3 
+`summarise()` has grouped output by 'Target_Method'. You can override using the
+`.groups` argument.
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Message d'avis :
+`group_by_()` was deprecated in dplyr 0.7.0.
+Ôä╣ Please use `group_by()` instead.
+Ôä╣ See vignette('programming') for more help
+Ôä╣ The deprecated feature was likely used in the dplyr package.
+  Please report the issue at <https://github.com/tidyverse/dplyr/issues>. 
